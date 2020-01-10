@@ -12,7 +12,7 @@ Posteriormente, basta con instalar las librerias especificadas en el archivo **r
 pip install -r requirements.txt
 ~~~
 
-Finalmente, se debe navegar a la carpeta **PSO** y luego ejecutar el comando.
+Finalmente, se debe navegar a la carpeta que contenga el archivo ***main.py*** y luego ejecutar el comando.
 
 ~~~
 python main.py 

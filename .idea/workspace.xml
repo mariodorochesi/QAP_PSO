@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70d28d14-55a3-4f9e-9893-9dd1a975ed45" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pso/particula.py" beforeDir="false" afterPath="$PROJECT_DIR$/pso/particula.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578612426713</updated>
       <workItem from="1578612427788" duration="807000" />
-      <workItem from="1578664786720" duration="10155000" />
+      <workItem from="1578664786720" duration="10368000" />
     </task>
     <servers />
   </component>
