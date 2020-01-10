@@ -26,7 +26,7 @@ class Particula:
         # Coeficientes de impacto
         self.c1 = 1
         self.c2 = 1
-        self.velocidad_maxima = 80
+        self.velocidad_maxima = 100
 
         random.shuffle(self.solucion_tentativa)
         while diccionario_particulas.get(self.generar_identificador(),None) is not None:
